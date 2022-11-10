@@ -11,16 +11,16 @@ Lending Club Case Study Data Analysis
 
 ## General Information
 - Provide general information about your project here.
- - Lending Club Project data analysis
+   - Lending Club Project data analysis
 
 - What is the background of your project?
- - Lending Club Project data analysis
+   - Lending Club Project data analysis
 
 - What is the business problem that your project is trying to solve?
- -  to find which customer can be defaulter
+   -  to find which customer can be defaulter
 
 - What is the dataset that is being used?
- - loan2.csv
+   - loan2.csv
 
 ## Conclusions
 - Higher experience is related to higher charged off, ratio is consistence across graph
@@ -37,7 +37,7 @@ Lending Club Case Study Data Analysis
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by upgrad learning
 - References if any...
 
 ## Contact
