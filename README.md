@@ -14,7 +14,7 @@ Lending Club Case Study Data Analysis
  - Lending Club Project data analysis
 
 - What is the background of your project?
-  - Lending Club Project data analysis
+ - Lending Club Project data analysis
 
 - What is the business problem that your project is trying to solve?
  -  to find which customer can be defaulter
